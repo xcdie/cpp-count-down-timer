@@ -28,7 +28,7 @@ void startTimer(int minutes) {
 int main() {
     int choice;
     do {
-        cout << "=== C++ Work Timer ===\n";
+        cout << "==== C++ Work Timer ====\n";
         cout << "1. Work Session (25 mins)\n";
         cout << "2. Short Break (5 mins)\n";
         cout << "3. Custom Timer\n";
